@@ -1,0 +1,7 @@
+---
+:concurrency: 5
+:queues:
+  - default
+  - mailers
+  - sentry
+  - active_storage_analysis
