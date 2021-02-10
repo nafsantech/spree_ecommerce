@@ -104,4 +104,3 @@ gem 'sendgrid-actionmailer'
 # logging
 gem 'remote_syslog_logger'
 
-#gem 'acts_as_tenant'
